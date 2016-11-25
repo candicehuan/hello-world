@@ -1,2 +1,2 @@
 # hello-world
-just a test
+candice huan here, I hope to learn some technology from here.
